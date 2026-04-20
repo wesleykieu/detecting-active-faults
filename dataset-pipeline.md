@@ -1,0 +1,1 @@
+The goal is to map Sentinel-2 satellite images to the fault locations on USGS Fault and Fold Database. To get Sentinel-2 imagery, we connected to Google Earth Engine that pulls 

@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Large data files — too big for GitHub
+data/imagery/
+data/masks/
+data/patches/
+data/patches.zip
+
+# Outputs (generated files, re-create locally)
+outputs/
+
+# Large binary / dataset files
+*.tif
+*.tiff
+*.zip
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# PDF
+*.pdf
+
+# GIS scratch files
+*.cpg
+*.dbf
+*.prj
+*.shx
+
+# Claude Code internals
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
